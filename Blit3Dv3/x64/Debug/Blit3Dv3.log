@@ -1,0 +1,34 @@
+﻿  BallEntity.cpp
+  AngelcodeFont.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  BFont.cpp
+  Blit3D.cpp
+  ByteSwap.cpp
+  glslprogram.cpp
+  glutils.cpp
+  Logger.cpp
+  RenderBuffer.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  BrickEntity.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  Entity.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  main.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  MyContactListener.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\MyContactListener.h(5,10): error C1083: Cannot open include file: 'Box2D/Box2D.h': No such file or directory
+  PaddleEntity.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  Particle.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  Physics.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  PowerUpEntity.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  Generating Code...
+  Compiling...
+  SpinnerEntity.cpp
+C:\Users\warre\Desktop\Port\Poomarin_Warin_Arkinoid\Blit3Dv3\Physics.h(8,10): error C1083: Cannot open include file: 'Box2d/Box2D.h': No such file or directory
+  Generating Code...
